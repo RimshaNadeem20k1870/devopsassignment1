@@ -1,0 +1,37 @@
+/* Reset default margin and padding */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Background image setup */
+body {
+    background-image: url('path/to/your/image.jpg');
+    background-size: cover;
+    background-position: center;
+    /* Add more background properties as needed */
+}
+
+/* Centralize content */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #dda0dd; /* Example color for the header background */
+    color: #fff; /* Example color for the header text */
+}
+
+main {
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+/* Additional styling for specific elements */
+h1 {
+    /* Add styles for the heading */
+}
+
+/* Add more styles as needed for different sections */

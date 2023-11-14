@@ -1,0 +1,60 @@
+/* Reset default margin and padding */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Background image setup */
+body {
+    background-image: url('path/to/your/image.jpg');
+    background-size: cover;
+    background-position: center;
+    /* Add more background properties as needed */
+}
+
+/* Centralize content */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #dda0dd; /* Example color for the header background */
+    color: #fff;
+}
+
+a:-webkit-any-link {
+   /* color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-line: ;
+    text-decoration-thickness: ;
+    text-decoration-style: ;
+    text-decoration-color: ;*/
+    color: #fff; 
+}
+
+nav {
+    color: #fff; /* Text color for the navigation */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    color: #fff; 
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    color: #fff; 
+}
+
+main {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Additional styling for specific elements */
+h1 {
+    color: #fff; /* Example color for the heading text */
+}
+
+/* Add more styles as needed for different sections */
