@@ -1,4 +1,4 @@
-// Assuming you have an array of projects and education data
+
 const projects = [
     { title: "Spa Reservation System", technology: "C" },
     { title: "Real Estate Management System", technology: "C++" },
